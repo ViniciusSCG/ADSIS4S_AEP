@@ -2,9 +2,7 @@
   <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
 </p>
 
 ## 💻 Projeto
@@ -25,10 +23,6 @@ Esse projeto foi desenvolvido usando:
 ## 🔖 Layout
 
 Acessar o layout [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
-
-## :information_source: How To Use
-
-Para usar é nescessário o [Node.js][nodejs] + [Yarn][yarn] instalado no computador.
 
 ```
 
