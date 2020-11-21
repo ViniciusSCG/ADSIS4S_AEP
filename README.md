@@ -7,12 +7,12 @@
   <a href="#memo-license">License</a>
 </p>
 
-## 💻 Project
+## 💻 Projeto
 
 Ecoleta é um projeto desenvolvido com a intenção de conectar pessoas com as companias de materiais especificos. 
 
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido usando:
 
