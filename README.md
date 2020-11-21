@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,10 +10,6 @@
 ## 💻 Project
 
 Ecoleta é um projeto desenvolvido com a intenção de conectar pessoas com as companias de materiais especificos. 
-
-<h1 align="center">
-    <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
-</h1>
 
 
 ## :rocket: Technologies
