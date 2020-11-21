@@ -14,11 +14,11 @@ Ecoleta é um projeto desenvolvido com a intenção de conectar pessoas com as c
 
 Esse projeto foi desenvolvido usando:
 
-- [Node.js][nodejs]
-- [TypeScript][typescript]
-- [React][reactjs]
-- [React Native][rn]
-- [Expo][expo]
+- [Node.js]
+- [TypeScript]
+- [React]
+- [React Native]
+- [Expo]
 
 ## 🔖 Layout
 
